@@ -1,6 +1,6 @@
 ### 
-<p>"Things   aren’t  always /br 
-#000000   and   #FFFFFF"</p>
+<p>"Things   aren’t  always </p> 
+<p>#000000   and   #FFFFFF"</p>
 <h1 align="center">Hi, I'm Brigitta 👋</h1>
 <h3 align="center"> ⚡A passionate frontend developer ⚡</h3>
 
